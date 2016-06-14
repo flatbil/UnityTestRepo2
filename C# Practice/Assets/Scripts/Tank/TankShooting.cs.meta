@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 06b38fa3f5188f6419ab17bc1669c18c
+timeCreated: 1465409628
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_Shell: {fileID: 5487198, guid: 215a84d0f02b5b641b29798bc5930adb, type: 2}
+  - m_FireTransform: {instanceID: 0}
+  - m_AimSlider: {instanceID: 0}
+  - m_ShootingAudio: {instanceID: 0}
+  - m_ChargingClip: {instanceID: 0}
+  - m_FireClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
